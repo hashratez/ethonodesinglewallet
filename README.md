@@ -8,3 +8,5 @@ Each Etho Node requires a wallet to be funded for its deposit.  10 nodes, 10 wal
 Note, the threshold for payment is anything less than 100 ETHO.  So if you send 99 ETHO to the created contract address, the ETHO wil be forwarded to the address that deployed it.  If you send MORE than 100, it will stay in the contract (as needed for Service Node 5000 ETHO, Master Node 15000 ETHO, Gateway Node 30000 ETHO).
 
 You can recover the deposit by interacting with the conract and using the withdrawl function
+
+CREDIT: This Smart Contract was created by Dev-James for my use.  LOL I am not smart enought to write anything like this:)>
